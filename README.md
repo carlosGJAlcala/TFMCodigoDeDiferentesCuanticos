@@ -148,10 +148,5 @@ import qsharp
 # en Jupyter también puedes usar %%qsharp para pegar directamente código Q#
 ```
 
----
 
-## 📁 Datos y figuras
 
-* **Tablas**: tiempo y memoria por `n` qubits (CSV en `data/`).
-* **Figuras**: barras comparativas por algoritmo y backend, y **escalabilidad** (tiempo/memoria vs qubits) para cada simulador.
-* **LaTeX**: plantillas `pgfplots` para generar las figuras directamente en PDF.
